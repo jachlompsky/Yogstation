@@ -327,19 +327,19 @@
 		/obj/item/pen/edagger,
 		/obj/item/pen/sleepy,
 		/obj/item/flashlight/emp,
-		/obj/item/reagent_containers/syringe/mulligan,
+		/obj/item/belt/chameleon/syndicate,
 		/obj/item/clothing/shoes/chameleon/noslip/syndicate,
 		/obj/item/storage/firstaid/tactical,
 		/obj/item/encryptionkey/syndicate,
 		/obj/item/clothing/glasses/thermal/syndi,
-		/obj/item/slimepotion/slime/sentience/nuclear,
-		/obj/item/storage/box/syndie_kit/imp_radio,
+		/obj/item/camera_bug,
+		/obj/item/armorpolish,
 		/obj/item/storage/box/syndie_kit/imp_uplink,
 		/obj/item/clothing/gloves/krav_maga/combatglovesplus,
 		/obj/item/gun/ballistic/automatic/c20r/toy/unrestricted/riot,
 		/obj/item/reagent_containers/syringe/stimulants,
 		/obj/item/storage/box/syndie_kit/imp_freedom,
-		/obj/item/toy/eightball/haunted
+		/obj/item/book/granter/crafting_recipe/weapons
 	)
 
 	var/obj/item1 = pick_n_take(item_list)
