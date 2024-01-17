@@ -199,7 +199,7 @@
 			new /obj/item/carpcaller(src) //to spawn carps in space, making the place safer for you and dangerous for everyone else, you should get at least 20 carps per use so 60  carps
 			new /obj/item/toy/plush/carpplushie/dehy_carp //1 carp but guaranteed complete loyalty and cuddliness
 
-		if("mad_scientist") // ~22 tc
+		if("mad_scientist") // ~26 tc
 			new /obj/item/clothing/suit/toggle/labcoat/mad(src) // 0 tc
 			new /obj/item/clothing/shoes/jackboots(src) // 0 tc
 			new /obj/item/megaphone(src) // 0 tc (because how else are they to know you're mad?)
@@ -214,7 +214,7 @@
 			new /obj/item/storage/toolbox/syndicate/real(src) // 2 tc
 			new /obj/item/pen/red/edagger(src) // 2 tc
 			new /obj/item/gun/energy/wormhole_projector/upgraded(src) // ~2 tc
-			new /obj/item/gun/energy/decloner/unrestricted(src) // these shots do 9 damage. 1 tc
+			new /obj/item/gun/energy/decloner(src) // 20 clone damage and some radiation. ~5 tc
 
 		if("bee") // bee sword too based so its priceless
 			new /obj/item/paper/fluff/bee_objectives(src) // 0 tc (motivation)
